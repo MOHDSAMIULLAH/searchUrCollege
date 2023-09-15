@@ -1,4 +1,6 @@
 # searchUrCollege
+## Live Demo:
+https://search-ur-college.netlify.app/
 
 ## Home page
 ![image](https://github.com/MOHDSAMIULLAH/searchUrCollege/assets/91786605/8c3ffaeb-e6a7-49cd-b895-8124630327ff)

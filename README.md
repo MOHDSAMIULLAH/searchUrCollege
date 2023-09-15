@@ -26,7 +26,7 @@
 • Prioritize user experience through intuitive search functionality and engaging features like reviews and ratings.</br>
 • Provide educational resources and career guidance to support students in making informed decisions.</br>
 • Foster community engagement by enabling user reviews and discussions.</br>
-#### Technology Stack and Scalability:
+#### Technology Stack and Scalability:</br>
 
 • Utilize a technology stack comprising Node.js, Express.js, MongoDB, and possibly React.js (MERN Stack).</br>
 • Design the platform with scalability in mind to accommodate future growth and user demands.</br>
